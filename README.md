@@ -61,6 +61,7 @@ Applied at least 4 transformations to both datasets:
 ![etl_extract ipynb - ETL_Midterm_Esther_399 - Visual Studio Code 24_06_2025 18_54_55](https://github.com/user-attachments/assets/f65667ed-d2b7-44a0-afcb-ae8406615151)
 ![etl_extract ipynb - ETL_Midterm_Esther_399 - Visual Studio Code 24_06_2025 18_55_13](https://github.com/user-attachments/assets/76ee7621-6a08-4fc8-a80d-0d0f63fa8655)
 ![etl_extract ipynb - ETL_Midterm_Esther_399 - Visual Studio Code 24_06_2025 18_55_37](https://github.com/user-attachments/assets/62f2c5ff-384e-4633-b115-62d65671145c)
+### loading
 ![etl_extract ipynb - ETL_Midterm_Esther_399 - Visual Studio Code 24_06_2025 18_55_57](https://github.com/user-attachments/assets/5b0bb4e4-5962-4fd4-9339-be6465afe421)
 ![etl_extract ipynb - ETL_Midterm_Esther_399 - Visual Studio Code 24_06_2025 18_56_09](https://github.com/user-attachments/assets/45484c1e-8735-423e-ab1a-6ef34f7c04ef)
 ![etl_extract ipynb - ETL_Midterm_Esther_399 - Visual Studio Code 24_06_2025 18_56_20](https://github.com/user-attachments/assets/edee0cd0-9079-43d1-b01a-0de78781b40e)
