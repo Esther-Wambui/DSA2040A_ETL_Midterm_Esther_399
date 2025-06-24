@@ -42,6 +42,7 @@ Applied at least 4 transformations to both datasets:
 5. Check the `loaded/` folder for `.db` files
 
 ## Screenshots showing the codes and outputs of the whole process are below: 
+### extracting
 ![etl_extract ipynb - ETL_Midterm_Esther_399 - Visual Studio Code 24_06_2025 18_45_51](https://github.com/user-attachments/assets/c2800bf8-faf3-44dd-9897-588037557d7c)
 ![etl_extract ipynb - ETL_Midterm_Esther_399 - Visual Studio Code 24_06_2025 18_51_28](https://github.com/user-attachments/assets/4ac48c59-9e97-4de0-a0b6-18ad3308241d)
 ![etl_extract ipynb - ETL_Midterm_Esther_399 - Visual Studio Code 24_06_2025 18_51_41](https://github.com/user-attachments/assets/b36c6548-f54d-41c4-add0-0bc97ec02dd0)
@@ -49,6 +50,7 @@ Applied at least 4 transformations to both datasets:
 ![etl_extract ipynb - ETL_Midterm_Esther_399 - Visual Studio Code 24_06_2025 18_51_57](https://github.com/user-attachments/assets/26325048-d3e8-41d5-b109-ae0f75f14a60)
 ![etl_extract ipynb - ETL_Midterm_Esther_399 - Visual Studio Code 24_06_2025 18_52_30](https://github.com/user-attachments/assets/714fb6e5-4a86-4bdc-9e91-04177d16bdbb)
 ![etl_extract ipynb - ETL_Midterm_Esther_399 - Visual Studio Code 24_06_2025 18_52_53](https://github.com/user-attachments/assets/ce07196c-dfdb-456a-8c12-bdbb5c1b3818)
+### Transforming
 ![etl_extract ipynb - ETL_Midterm_Esther_399 - Visual Studio Code 24_06_2025 18_53_20](https://github.com/user-attachments/assets/b6aabe90-f154-483a-834d-ee9d422c7a20)
 ![etl_extract ipynb - ETL_Midterm_Esther_399 - Visual Studio Code 24_06_2025 18_53_37](https://github.com/user-attachments/assets/4b6b6c62-32a5-4a03-a6cc-392978d14bb4)
 ![etl_extract ipynb - ETL_Midterm_Esther_399 - Visual Studio Code 24_06_2025 18_53_47](https://github.com/user-attachments/assets/3d95a99e-ca33-4253-8494-ef8cb99060d9)
